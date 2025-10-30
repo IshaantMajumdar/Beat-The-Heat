@@ -1,7 +1,7 @@
 /// Configuration class for TomTom services
 class TomTomConfig {
   /// Your TomTom API key
-  static const String apiKey = 'td0nV9aoB2ayEuep9Bgq07oh2GKDdyCr';
+  static const String apiKey = ********;
 
   /// Base URL for TomTom services
   static const String baseUrl = 'https://api.tomtom.com';
