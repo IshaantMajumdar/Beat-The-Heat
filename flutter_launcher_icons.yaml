@@ -1,0 +1,8 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "BTH.jfif"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "BTH.jfif"
+  min_sdk_android: 21
+  remove_alpha_ios: true
